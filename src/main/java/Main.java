@@ -1,8 +1,10 @@
-import java.util.Arrays;
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-       int x = (10 + 3) * 2;
-        System.out.println(x);
+        Scanner scanner = new Scanner(System.in);
+        System.out.print("Name: ");
+        String name = scanner.nextLine().trim();
+        System.out.println("You are " + name);
 
     }
 }
