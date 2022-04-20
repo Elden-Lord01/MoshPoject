@@ -5,3 +5,4 @@
 -learned to string stuff together and different functions
 - Learned about escape string sequences.
 - learned about arrays
+- made Calculator
